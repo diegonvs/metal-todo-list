@@ -25,6 +25,13 @@ module.exports = {
 			}]
 		}]
 	},
+
+	devServer: {
+		port: 8887,
+		contentBase: './demos',
+		compress: true
+	},
+
 	output: {
 		library: 'metal',
 		libraryTarget: 'this',
