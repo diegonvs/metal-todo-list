@@ -1,0 +1,15 @@
+{
+    "name": "todo-list",
+    "short_name": "todo-list",
+    "theme_color": "magenta",
+    "background_color": "magenta",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+        {
+        "src": "img/icon.jpg",
+        "sizes": "480x480",
+        "type": "image/jpg"
+        }
+    ]
+}
